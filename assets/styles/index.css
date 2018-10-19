@@ -25,7 +25,8 @@ ol {
 .stop {
   position: relative;
   padding-left: 30px;
- }
+  line-height: 1em;
+}
 
 .stop:before {
   content: "";
